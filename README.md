@@ -1,42 +1,101 @@
-🛡️ Cybersecurity Portfolio
 
-Welcome! This repository contains my cybersecurity learning materials, summaries, and professional documentation from the **Google Cybersecurity Certificate** course on Coursera.
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 20px;
+      line-height: 1.6;
+      background-color: #f8f9fa;
+    }
+    h1, h2 {
+      color: #003366;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 1.5em;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 10px;
+      text-align: left;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      padding-left: 20px;
+    }
+  </style>
+</head>
+<body>
 
+  <h1>🛡️ Cybersecurity Portfolio</h1>
 
+  <p>
+    Welcome to my cybersecurity portfolio. This repository showcases my learning journey, technical documentation, and acquired skills from the 
+    <strong>Google Cybersecurity Certificate</strong> course on Coursera.
+  </p>
 
-👤 About Me
+  <h2>👤 About Me</h2>
+  <p>
+    I am an aspiring cybersecurity professional with a deep interest in system protection, network defense, and threat detection. 
+    Throughout the certificate program, I developed foundational knowledge in cybersecurity concepts and tools, which I am continuously building upon to pursue a career in the field.
+  </p>
 
-I am an aspiring cybersecurity professional with a strong interest in system protection, network security, and threat detection. This portfolio highlights the knowledge and skills I have gained through the certificate program.
+  <h2>📂 Portfolio Contents</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>File</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="professional_statement.md">professional_statement.md</a></td>
+        <td>Personal introduction, cybersecurity goals, and areas of interest</td>
+      </tr>
+      <tr>
+        <td><a href="labs_summary.md">labs_summary.md</a></td>
+        <td>Summary of cybersecurity topics and core concepts covered in the course</td>
+      </tr>
+      <tr>
+        <td><a href="resume.pdf">resume.pdf</a></td>
+        <td>Resume highlighting certifications, education, and technical skills</td>
+      </tr>
+    </tbody>
+  </table>
 
+  <h2>🧠 Skills Gained</h2>
+  <ul>
+    <li>Application of the <strong>CIA Triad</strong>: Confidentiality, Integrity, Availability</li>
+    <li>Identification and classification of common <strong>cybersecurity threats</strong></li>
+    <li>Fundamentals of <strong>network security</strong>, firewalls, and authentication methods</li>
+    <li><strong>Linux file system</strong> navigation and permission structures</li>
+    <li>Basics of <strong>SQL injection</strong> prevention and secure query design</li>
+    <li>Understanding of the <strong>incident response lifecycle</strong> and documentation practices</li>
+  </ul>
 
- 📂 Portfolio Contents
+  <h2>📈 Career Goals</h2>
+  <ul>
+    <li>Gain hands-on experience in cybersecurity tools like <strong>Wireshark</strong>, <strong>Nmap</strong>, and <strong>Metasploit</strong></li>
+    <li>Secure an entry-level position or internship to apply and enhance my cybersecurity knowledge</li>
+    <li>Continue learning advanced topics in <strong>ethical hacking</strong>, <strong>threat intelligence</strong>, and <strong>vulnerability management</strong></li>
+  </ul>
 
- File | Description 
+  <h2>📬 Contact</h2>
+  <ul>
+    <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/musab-wali-197712327" target="_blank">linkedin.com/in/musab-wali-197712327</a></li>
+    <li><strong>Email:</strong> <a href="mailto:musabwali2024@gmail.com">musabwali2024@gmail.com</a></li>
+  </ul>
 
-| [`professional_statement.md`](professional_statement.md) | My introduction, cybersecurity goals, and interests |
-| [`labs_summary.md`](labs_summary.md) | Summary of cybersecurity concepts and topics I have studied |
-| [`resume.pdf`](resume.pdf) | My resume including cybersecurity certifications and education |
-| [`/screenshots`](screenshots/) | Images showing example command-line or tool outputs (if any) |
+  <p>Thank you for visiting my portfolio!</p>
 
-
-🧠 Skills Gained
-
-- Understanding of the CIA Triad (Confidentiality, Integrity, Availability)
-- Identification of common cybersecurity threats
-- Basics of network security and authentication
-- Linux file system navigation and permission concepts
-- SQL injection theory and secure query concepts
-- Incident response and documentation practices
-
-
- 📈 Goals
-
-- Continue learning about ethical hacking and vulnerability assessment  
-- Secure an entry-level role or internship in cybersecurity  
-- Gain hands-on experience with tools like Wireshark, Nmap, and Metasploit  
-
-📬 Contact
-
-You can reach out to me on [LinkedIn]  (https://linkedin.com/in/musab-wali-197712327) or via email MUSABWALI2024@GMAIL.COM.
-
-Thank you for visiting!
+</body>
+</html>
